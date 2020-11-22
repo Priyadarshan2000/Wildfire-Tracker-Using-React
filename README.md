@@ -2,7 +2,7 @@
 
 > This is a React app to track wildfires and plot them on a Google map.
 
-## Usage
+## Setup
 
 ```
 npm install
